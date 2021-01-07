@@ -168,7 +168,7 @@ ul{
 
 
 /* スマホ用の規格 */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
 
     .main-box{
         max-width: 90vw;
